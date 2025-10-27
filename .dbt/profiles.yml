@@ -1,0 +1,13 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 16
+      account: vapxfve-hn70912
+      user: GABED
+      database: analytics
+      warehouse: transforming
+      schema: dbt_gabED
+      password: unjvJ_!tr96hS!f
+      role: transformer

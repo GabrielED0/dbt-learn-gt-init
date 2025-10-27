@@ -1,0 +1,13 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 16
+      account: VAPXFVE-HN70912
+      user: GABED
+      database: ANALYTICS
+      warehouse: RAW
+      schema: DBT_GABED
+      password: unjvJ_!tr96hS!f
+      role: ACCOUNTADMIN
